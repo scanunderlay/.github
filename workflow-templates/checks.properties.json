@@ -1,0 +1,7 @@
+{
+  "name": "Scan Underlay checks",
+  "description": "Installs with Bun, then runs the check command on version tags and manual runs.",
+  "iconName": "octicon check-circle",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json$"]
+}

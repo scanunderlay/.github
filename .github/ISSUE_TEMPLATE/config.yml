@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/scanunderlay/.github/blob/main/SECURITY.md
+    about: Report security problems privately by email, never in an issue.
+  - name: Ask about our products
+    url: https://www.scanunderlay.com
+    about: Questions about products, orders, and deliveries go to info@scanunderlay.com.
+  - name: Ask about your personal data
+    url: https://github.com/scanunderlay/.github/blob/main/SUPPORT.md
+    about: Requests to access, correct, or delete personal data go to privacy@scanunderlay.com.
